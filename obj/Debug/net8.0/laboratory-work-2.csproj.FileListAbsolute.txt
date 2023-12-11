@@ -1,0 +1,14 @@
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.AssemblyInfo.cs
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\bin\Debug\net8.0\laboratory-work-2.exe
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\bin\Debug\net8.0\laboratory-work-2.deps.json
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\bin\Debug\net8.0\laboratory-work-2.runtimeconfig.json
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\bin\Debug\net8.0\laboratory-work-2.dll
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\bin\Debug\net8.0\laboratory-work-2.pdb
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.dll
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\refint\laboratory-work-2.dll
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.pdb
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\laboratory-work-2.genruntimeconfig.cache
+C:\Users\artem\Desktop\121\ООП 2 курс 1 семестр\Labs\2\laboratory-work-2\laboratory-work-2\obj\Debug\net8.0\ref\laboratory-work-2.dll
